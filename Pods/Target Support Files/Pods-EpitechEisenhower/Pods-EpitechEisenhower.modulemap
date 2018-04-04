@@ -1,0 +1,6 @@
+framework module Pods_EpitechEisenhower {
+  umbrella header "Pods-EpitechEisenhower-umbrella.h"
+
+  export *
+  module * { export * }
+}
