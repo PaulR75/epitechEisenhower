@@ -12,6 +12,7 @@
 		9A5623DA1F7940280009CD23 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A5623D81F7940280009CD23 /* Main.storyboard */; };
 		9A5623DC1F7940280009CD23 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A5623DB1F7940280009CD23 /* Assets.xcassets */; };
 		9A5623DF1F7940280009CD23 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A5623DD1F7940280009CD23 /* LaunchScreen.storyboard */; };
+		DA0830D5207A64B600B2A399 /* SearchViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA0830D4207A64B600B2A399 /* SearchViewController.swift */; };
 		DA14DAC3206D411C005238DE /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA14DAC2206D411C005238DE /* HomeViewController.swift */; };
 		DA1E0E9B2075499E000C653C /* TasksViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA1E0E9A2075499E000C653C /* TasksViewController.swift */; };
 		DABD5CE9206E63E4004F3AEA /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DABD5CE8206E63E4004F3AEA /* ProfileViewController.swift */; };
@@ -30,6 +31,7 @@
 		9A5623DE1F7940280009CD23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A5623E01F7940280009CD23 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C43805D7E0767350D65137A0 /* Pods-EpitechEisenhower.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EpitechEisenhower.release.xcconfig"; path = "Pods/Target Support Files/Pods-EpitechEisenhower/Pods-EpitechEisenhower.release.xcconfig"; sourceTree = "<group>"; };
+		DA0830D4207A64B600B2A399 /* SearchViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewController.swift; sourceTree = "<group>"; };
 		DA14DAC2206D411C005238DE /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		DA1E0E9A2075499E000C653C /* TasksViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TasksViewController.swift; sourceTree = "<group>"; };
 		DABD5CE8206E63E4004F3AEA /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				DA14DAC2206D411C005238DE /* HomeViewController.swift */,
 				DABD5CE8206E63E4004F3AEA /* ProfileViewController.swift */,
 				DA1E0E9A2075499E000C653C /* TasksViewController.swift */,
+				DA0830D4207A64B600B2A399 /* SearchViewController.swift */,
 				9A5623D81F7940280009CD23 /* Main.storyboard */,
 				9A5623DB1F7940280009CD23 /* Assets.xcassets */,
 				9A5623DD1F7940280009CD23 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DA0830D5207A64B600B2A399 /* SearchViewController.swift in Sources */,
 				9A5623D71F7940280009CD23 /* LoginViewController.swift in Sources */,
 				9A5623D51F7940280009CD23 /* AppDelegate.swift in Sources */,
 				DA1E0E9B2075499E000C653C /* TasksViewController.swift in Sources */,

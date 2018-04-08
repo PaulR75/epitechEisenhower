@@ -33,7 +33,7 @@ extension UIColor {
 
 // Declaration of colors for error message
 let redColor: UIColor = UIColor(rgb: 0xFF3A07).withAlphaComponent(0.8)
-let greenColor: UIColor = UIColor(rgb: 0x7EFF21).withAlphaComponent(1)
+let greenColor: UIColor = UIColor(rgb: 0x7ED321).withAlphaComponent(1)
 let clearGreenColor: UIColor = UIColor(rgb: 0xF8E81C).withAlphaComponent(0.4)
 let blueColor: UIColor = UIColor(rgb: 0x0DA0B2).withAlphaComponent(0.8)
 

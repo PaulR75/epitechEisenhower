@@ -63,7 +63,6 @@ class ProfileViewController: UIViewController, UIImagePickerControllerDelegate, 
 
     override func viewDidLoad(){
         super.viewDidLoad()
-        print("here")
         imagePicker.delegate = self
          // TO DO (FCT) -- Create extension of UIButton, all same layer in the app.
         EHLogoutButton.layer.cornerRadius = 5
